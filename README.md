@@ -3,19 +3,19 @@
 ```json
 [
     {
-        "id": "常用推荐",
+        "id": "常用推荐",                          //必填，菜单列表与展示内容时跳转
         "info": [
             {
                 "url": "https://www.baidu.com",
-                "name": "百度",
-                "desc": "百度一下，你就知道",
-                "logo": ""
+                "name": "百度",                   // 标题
+                "desc": "百度一下，你就知道",      // 导航的描述
+                "logo": ""                       // logo不填时默认取网站的icon
             },
             {
-                "url": "https://www.anyknew.com",
-                "name": "anyknew",
-                "desc": "高效率读新闻",
-                "logo": ""
+                "url": "https://www.github.com",
+                "name": "github",
+                "desc": "github",
+                "logo": "./assets/images/default.png"     //本地图片放在assets/images目录中
             }
         ]
     },
