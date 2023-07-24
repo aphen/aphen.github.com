@@ -9,10 +9,16 @@
                 "logo": ""
             },
             {
-                "url": "https://www.anyknew.com",
-                "name": "anyknew",
+                "url": "https://www.sina.com",
+                "name": "新浪",
                 "desc": "高效率读新闻",
                 "logo": ""
+            },
+            {
+                "url": "https://www.github.com",
+                "name": "github",
+                "desc": "github",
+                "logo": "./assets/images/default.png"
             }
         ]
     },
