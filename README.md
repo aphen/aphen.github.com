@@ -1,7 +1,7 @@
 # 静态网址导航
-适合各人员配置,如若不加本地logo，只要修改site.json文件即可，会自动取网站的icon显示
-若加本地logo，放置于assets/images目录
-具体可参照以下代码：
+`适合各人员配置,如若不加本地logo，只要修改site.json文件即可，会自动取网站的icon显示`
+`若加本地logo，放置于assets/images目录`
+`具体可参照以下代码：`
 ```json
 [
     {
